@@ -1,0 +1,6 @@
+[submodule "vinyl-vault-frontend"]
+	path = vinyl-vault-frontend
+	url = https://github.com/aidanPuricelli/vinyl-vault-frontend.git
+[submodule "vinyl-vault-backend"]
+	path = vinyl-vault-backend
+	url = https://github.com/aidanPuricelli/vinyl-vault-backend.git
